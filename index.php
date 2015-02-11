@@ -9,4 +9,5 @@
 	  echo substr($str, 0, 1);
 
 	return;
+	}
 ?>
