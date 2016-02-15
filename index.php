@@ -1,4 +1,6 @@
 <?php
+	#test
+
 	$str = "reverse string";
 	rev($str);
 
